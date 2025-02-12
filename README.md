@@ -1,4 +1,4 @@
-<h2 align="left">Hallo👋! My name is akbar firmansah and I'm a student,web developer from indonesia</h2>
+<h2 align="left">Hello World!, I'm Akbar, a indonesia Web Developer 👋</h2>
 
 
 <img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3ZvZnk4eTkzdHR1eHpjMG1weXdldGpkYnZhdGN2MWF4N2x1d3ZjcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h8sVibFE0NChi/giphy.gif"  />
